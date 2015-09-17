@@ -1,0 +1,13 @@
+SP-11 Math 6
+SN-12 History 5
+SN-41 Specialty 3
+FKT-21 Philosophy 8
+SB-11 programming 2
+MA-31 physics 3
+MB-42 English 4
+MI-12 German 6
+KA-21 Chemistry 7
+KT-11 Informatics 3
+
+
+SN-11 English 2
